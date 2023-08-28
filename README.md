@@ -9,4 +9,4 @@
 ``` NGROK_TOKEN```
 
 ####...
-[CREDIT] 💳 (https://github.com/XdityaHalder)
+[CREDIT](https://github.com/XdityaHalder)
